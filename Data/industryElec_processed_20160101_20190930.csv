@@ -1,4 +1,4 @@
-日期,工業用電(百萬度),尖峰負載(MW),isHoliday,week,week_update,dayOfYear,Temp_Taipei,尖峰負載(MW)_shift7,isHoliday_shift7,weekUpdate_shift7,Temp_Taipei_shift7
+Date,kW,PeakLoad(MW),isHoliday,week,week_update,dayOfYear,Temp_Taipei,PeakLoad(MW)_shift7,isHoliday_shift7,weekUpdate_shift7,Temp_Taipei_shift7
 2016-01-01,263.79900000000004,23038,1.0,5,7,1,14.6,26400.0,0.0,5.0,12.0
 2016-01-02,261.975,23209,1.0,6,6,2,15.7,24308.0,1.0,6.0,12.1
 2016-01-03,266.16700000000003,23686,1.0,7,7,3,16.0,23490.0,1.0,7.0,16.2
