@@ -1,2 +1,0 @@
-# IndustryElec
- IDSL IndustryElec
