@@ -25,3 +25,7 @@
 
 - [central_weather_bureau_observation_daily_by_region_20160101_20191031.csv](central_weather_bureau_observation_daily_by_region_20160101_20191031.csv) 為[中央氣象局觀測資料查詢系統](https://e-service.cwb.gov.tw/HistoryDataQuery/)保存的氣象觀測資料，包含氣溫、相對濕度、風速、風向、降水量等資訊
 - 本次取用其中的氣溫資料，輔助用電預測
+
+## 行政資料
+
+- [政府行政機關辦公日曆表.csv](政府行政機關辦公日曆表.csv) 用於判斷 2016 至 2019 年的國定假日與補班情況
