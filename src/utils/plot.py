@@ -28,7 +28,7 @@ def show_error(real, pred, index, title):
     plt.plot(index, real, color='red', label='Real')
     plt.plot(index, pred, color='blue', label='Pred')
     plt.title(F"Power Consumption Prediction: {title}")
-    plt.ylabel('Power Consumption (kW)')
+    plt.ylabel('Power Consumption (MkWh)')
     plt.legend()
     plt.savefig(F"results/{title.lower().replace(' ', '_')}.jpg", bbox_inches='tight', pad_inches=0.05)
     plt.show()
